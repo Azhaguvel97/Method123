@@ -18,6 +18,15 @@ public class Method123 {
 	}
 	public void method9() {
         System.out.println("method 9");
+  }
+  	public void method4() {
+        System.out.println("method 4");
+	}
+	public void method5() {
+        System.out.println("method 5");
+	}
+	public void method6() {
+        System.out.println("method 6");
 	}
   public void method10() {
         System.out.println("method 10");
