@@ -10,5 +10,13 @@ public class Method123 {
 	public void method3() {
         System.out.println("method 3");
 	}
-
+	public void method7() {
+        System.out.println("method 7");
+	}
+	public void method8() {
+        System.out.println("method 8");
+	}
+	public void method9() {
+        System.out.println("method 9");
+	}
 }
